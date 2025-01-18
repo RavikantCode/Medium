@@ -8,7 +8,6 @@
     "@prisma/client": "^6.1.0",
     "@prisma/extension-accelerate": "^1.2.1",
     "@ravinpm11/medium-common": "^1.0.0",
-    "@ravinpm99/medium-common": "^1.0.0",
     "hono": "^4.6.16",
     "prisma": "^6.1.0"
   },
